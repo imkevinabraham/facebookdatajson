@@ -3,7 +3,7 @@
       "dateTime":"13/04/2016",
       "articles":[  
          {  
-            "id":"4"
+            "id":"4",
             "Title":"Useful smart technology making your life infinitely easier",
             "Summary":"MILLENIALS are lazy.\nRaised by technology, we pride ourselves on being able to function efficiently at the click of a button. This isn’t necessarily a bad thing.\nSmart technology is the answer to our relentless pursuit for ease and efficiency. Here are some examples of tech that are destined to make our lives much easier.",
             "Content":"cont",
@@ -32,7 +32,7 @@
             ]
          },
          {  
-            "id":"3"
+            "id":"3",
             "Title":"Schoolteacher sacked after parents spot Facebook video of her twerking on US holiday",
             "Summary":"A PRIMARY schoolteacher lost her job after this raunchy video of her twerking in a bikini on holiday 400 miles away from her school went viral and was spotted by angry parents.",
             "Content":"cont",
@@ -66,7 +66,7 @@
       "date":"12/04/2016",
       "articles":[  
          {  
-            "id":"2"
+            "id":"2",
             "Title":"Useful smart technology making your life infinitely easier",
             "Summary":"MILLENIALS are lazy.\nRaised by technology, we pride ourselves on being able to function efficiently at the click of a button. This isn’t necessarily a bad thing.\nSmart technology is the answer to our relentless pursuit for ease and efficiency. Here are some examples of tech that are destined to make our lives much easier.",
             "Content":"cont",
@@ -95,7 +95,7 @@
             ]
          },
          {  
-            "id":"1"
+            "id":"1",
             "Title":"Schoolteacher sacked after parents spot Facebook video of her twerking on US holiday",
             "Summary":"A PRIMARY schoolteacher lost her job after this raunchy video of her twerking in a bikini on holiday 400 miles away from her school went viral and was spotted by angry parents.",
             "Content":"cont",
