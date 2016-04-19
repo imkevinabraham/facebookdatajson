@@ -1,0 +1,24 @@
+{
+    "projects": [{
+                 "Title": "String",
+                 "Summary": "String",
+                 "ValueProposition": "String",
+                 "Content": "String",
+                 "Gallery": [{
+                             "Path": "https://",
+                             "Legend": "String"
+                             }],
+                 "Surveys": [{
+                             "Question": "String",
+                             "Options": [{
+                                         "Title": "String",
+                                         "Url": "https://"
+                                         }]
+                             }],
+                 "Author": "String",
+                 "Link": [{
+                          "Title": "String",
+                          "Url": "https://"
+                          }]
+                 }]
+}
