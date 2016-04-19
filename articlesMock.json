@@ -1,6 +1,6 @@
 [  
    {  
-      "date":"13/04/2016",
+      "dateTime":"13/04/2016",
       "articles":[  
          {  
             "Title":"Useful smart technology making your life infinitely easier",
@@ -20,7 +20,7 @@
                   ]
                }
             ],
-            "DateCurated":"13/04/2016",
+            "DateTimeCurated":"2016-04-13 23:59:59",
             "ListLayoutType":"main",
             "LayoutType":"main",
             "Images":[  
@@ -48,7 +48,7 @@
                   ]
                }
             ],
-            "DateCurated":"13/04/2016",
+            "DateTimeCurated":"2016-04-13 22:59:59",
             "ListLayoutType":"sideImage",
             "LayoutType":"main",
             "Images":[  
@@ -81,7 +81,7 @@
                   ]
                }
             ],
-            "DateCurated":"13/04/2016",
+            "DateTimeCurated":"2016-04-11 22:59:59",
             "ListLayoutType":"text",
             "LayoutType":"main",
             "Images":[  
@@ -109,7 +109,7 @@
                   ]
                }
             ],
-            "DateCurated":"13/04/2016",
+            "DateTimeCurated":"2016-04-13 21:59:59",
             "ListLayoutType":"main",
             "LayoutType":"main",
             "Images":[  
