@@ -1,0 +1,19 @@
+{
+"articles": [
+{
+"needspassword": true,
+"id": 65,
+"url": "http://news.com",
+"title": "News WOW",
+"dateTime": "2015/10/23 13:31:32"
+},
+{
+"needspassword": false,
+"id": 64,
+"url": "http://techcrunch.com",
+"title": "techcrunch wow",
+"dateTime": "2015/10/23 12:31:32"
+}
+],
+"stat": "ok"
+}
